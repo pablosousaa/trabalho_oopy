@@ -1,6 +1,6 @@
 # 🚀 LabSpace - Jogo de Nave em Python
 
-![Banner do Jogo](https://via.placeholder.com/1280x400/33363A/FFFFFF?text=LABSPACE)  
+![Banner do Jogo](https://prnt.sc/83olBgY-EEtX)  
 *Um jogo de nave espacial desenvolvido com Pygame para a disciplina de Orientação a Objetos*
 
 ## 📌 Índice
