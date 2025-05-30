@@ -69,7 +69,7 @@ python main.py
 
 ## 🎮 Controles
 Tecla	Ação
-↑ ↓ ← → ou WASD	Movimentação da nave
+↑ ↓ ← → Para a Movimentação da nave
 Espaço	Disparar lasers
 Enter	Confirmar nome no ranking
 
