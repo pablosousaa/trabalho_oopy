@@ -38,7 +38,7 @@ class LabSpace:
             score_line2 = font.render(f"SUA PONTUAÇÃO FOI DE {self.pontos} PONTOS!", True, (255, 255, 255))
             self.WIN.blit(score_line1, (self.WIDTH//2 - score_line1.get_width()//2, 100))
             self.WIN.blit(score_line2, (self.WIDTH//2 - score_line2.get_width()//2, self.HEIGHT//2 - 30))
-            input_line1 = font.render("DIGITE SUAS INICIAIS DE RANK ABAIXO:", True, (255, 255, 255))
+            input_line1 = font.render("DIGITE SUAS 3 INICIAIS DE RANK ABAIXO:", True, (255, 255, 255))
             input_line2 = big_font.render(self.input_name, True, (0, 255, 0))
             self.WIN.blit(input_line1, (self.WIDTH//2 - input_line1.get_width()//2, self.HEIGHT//2 + 20))
             self.WIN.blit(input_line2, (self.WIDTH//2 - input_line2.get_width()//2, self.HEIGHT//2 + 90))
