@@ -9,7 +9,7 @@ LASER_Jogador = pygame.image.load("package/assets/images/laser_jogador.png")
 
 
 class Jogador(Nave):
-    def __init__(self, x, y, health=150):
+    def __init__(self, x, y, health=250):
         super().__init__(x, y, health)
         self.ship_img = NAVE_Jogador
         self.laser_img = LASER_Jogador
