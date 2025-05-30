@@ -4,7 +4,7 @@ from pygame.locals import *
 from package.classes.laser import Laser
 
 class Nave:
-    COOLDOWN = 30
+    COOLDOWN = 20
 
     def __init__(self, x, y, health=100):
         self.x = x
