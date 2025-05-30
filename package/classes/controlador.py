@@ -74,7 +74,7 @@ class LabSpace:
         wave_length = 5
         inimigo_vel = 1
 
-        jogador_vel = 5
+        jogador_vel = 7
         laser_vel = 5
 
         jogador = Jogador(600, 500)
